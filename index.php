@@ -46,8 +46,6 @@ $usuario->delete();
 
 echo $usuario;
 
-echo "iniciando o git";
-
 
 
 ?>
